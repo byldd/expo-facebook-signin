@@ -1,0 +1,35 @@
+{
+  "name": "@byldd/expo-facebook-signin",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "description": "Facebook Sign-In module for Byldd Expo projects",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "@byldd",
+    "expo-facebook-signin"
+  ],
+  "author": "Abhishek Singh <abhishek.singh@byldd.com>",
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "peerDependencies": {
+    "react": ">=18.3.1",
+    "react-native": ">=0.70.0",
+    "expo": ">=52.0.18"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byldd/expo-facebook-signin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byldd/expo-facebook-signin/issues"
+  },
+  "homepage": "https://github.com/byldd/expo-facebook-signin#readme"
+}
